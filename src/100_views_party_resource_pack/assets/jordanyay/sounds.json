@@ -1,0 +1,13 @@
+{
+  "item.party_horn.toot": {
+      "category": "master",
+      "sounds": [
+      "jordanyay:item/party_horn/toot0",
+      "jordanyay:item/party_horn/toot1",
+      "jordanyay:item/party_horn/toot2",
+      "jordanyay:item/party_horn/toot3",
+      "jordanyay:item/party_horn/toot4"
+    ],
+    "subtitle": "Party horn toots"
+  }
+}

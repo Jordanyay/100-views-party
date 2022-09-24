@@ -1,0 +1,38 @@
+{
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "minecraft:item/carrot_on_a_stick"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 3206426
+			},
+			"model": "jordanyay:item/party_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3206427
+			},
+			"model": "jordanyay:item/party_horn"
+		},
+		{	
+			"predicate": {
+				"custom_model_data": 3206428
+			},
+			"model": "jordanyay:item/party_horn_blown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3206429
+			},
+			"model": "jordanyay:particle/blue_confetti"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3206430
+			},
+			"model": "jordanyay:particle/magenta_confetti"
+		}
+	]
+}

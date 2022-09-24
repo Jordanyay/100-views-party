@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"texture_size": [4, 4],
+	"textures": {
+		"layer0": "jordanyay:particle/blue_confetti"
+	}
+}

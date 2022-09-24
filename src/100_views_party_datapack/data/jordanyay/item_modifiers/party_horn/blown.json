@@ -1,0 +1,4 @@
+{
+	"function": "minecraft:set_nbt",
+	"tag": "{CustomModelData:3206428,Tags:[\"jordanyay:party_horn\",\"jordanyay:party_horn.blown\"]}"
+}
