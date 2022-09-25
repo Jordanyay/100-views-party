@@ -28,7 +28,7 @@ This data/resource pack was created by me to thank the community for helping me 
     - [Resource Pack](#resource-pack)
 
 ## Video Showcase
-(WILL BE ADDED AS SOON AS I FIGURE OUT HOW TO ADD IT!)
+[![100_views_special_thumbnail](https://img.youtube.com/vi/SgwNPGxg01s/maxresdefault.jpg)](https://www.youtube.com/watch?v=SgwNPGxg01s)
 
 ## Items
 ### Party Horn
